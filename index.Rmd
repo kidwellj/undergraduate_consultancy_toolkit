@@ -1,0 +1,3 @@
+# Introduction to the module
+
+This toolkit has been designed to enable faculty to embed student consultancy projects within an undergraduate humanities course. This may be transferrable to PG teaching or to other disciplines, but has been curated with some specific elements towards this learning stage and discipline. Here we provide some narration of our design process as well as some wisdom gained from running the course. We've also tried to present some generic versios of specific resources we designed which other faculty and support staff seeking to run their own UG consultancy projects can re-use.

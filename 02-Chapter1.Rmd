@@ -1,0 +1,75 @@
+# Step 1: Finding employer partners
+
+Demand is growing to develop our student's confidence so they are prepared for life after graduation. By embedding practical off-campus experiences into the curriculum, we are giving students the opportunity to develop professional behaviours whilst applying the theory of their course learnt at University.  Employer and community partners should be encouraged to take responsibility in shaping our students learning experiences and become an active partner of our community as we should be an active partner within theirs.
+
+The section below has been designed to give you practical advice on how to approach organisations, including suggested text for emails and resources once the experience is underway. It is important to ensure that parameters and expectations are set so that the experiences are enriching and mutually beneficial for all parties involved.
+
+## Getting started
+
+Employer partners are integral to Work Integrated Learning. Often we are unsure how much we can ask from our employer partners. This is of course dependent on the activity, however the best experiences are when both University and external staff develop objectives for student projects collaboratively. This sets up an expectation that employers should be taking an active role in students learning and teaching. Depending on what experience employers have had in the past workign with external consultants, they may bring a wide range of expectations regarding student work and their own input towards the process. Consider ways that you can cultivate a cooperative relationship, and avoid  transactional or instrumental interactions. When possible each party should contribute at design, execution and course review stages.
+
+The 'Religion in the Public Sphere' module had 25 students enrolled, and we aimed for groups of 4-5 per team. As a result, we recruited 5 employers from a range of backgrounds. It is important to give students a breadth of options and in this case demonstrate that their degree is valued within diverse professional settings. 
+
+## Step one: Finding employer partners 
+
+- The course manager should start with their own networks and approach your own employer contacts. 
+- Many Colleges will also have an assigned Internship Officer or Careers Network staff. Although the Internship Officer may not be able to find professional experiences for your module, they often have employer contacts and can save you time in identifying the right people to approach. 
+- Check with your Development or Alumni Relations office. Along with financial support, alumni often want to offer their time. Alumni Relations may be able to provide you with a list of suitable alumni to contact.
+- If you have exhausted these networks and your own contacts, then you can try a speculative approach. Fair warning, this is a potentially time consuming method when developing employer contacts, but volunteer boards such as [Do-it.org](https://do-it.org/) can help you narrow down your search.
+
+## Step 2: Making contact 
+
+This section has been designed to give you practical tips on how to make contact with employers, along with templates of text that you might want to use when emailing organisations. 
+
+Top tips are: 
+
+- Call the organisation before sending an email. Explain that you work for The University of Birmingham and would like to speak to the person that handles graduate recruitment or work experience opportunities for students. If they are not available, ask to take their email address and ask the person taking the the call to let the main contact know that you have called.
+- Check out `sample_email_template` in the `resources` folder for some text you can use to structure your first correspondence by email. Make sure it's concise, an employer will be busy and will only skim read the email. You only need enough information to grab the employer's attention. 
+- You may need to chase the employer and often there is a lot of going back and forth. On average, we would advise on chasing the employer three times.
+- Before meeting the employer in person, we would recommend having a telephone meeting with them first to explain the project.
+- If the employer is keen and is likely to work with you, always go to their workplace to meet them. This meeting will help you solidify the relationship but also gives you the opportunity to see the environment where the student/s will be working and confirm that it will work for the course and your particular cohort of students.
+- Before students enter the employers workplace to undertake their professional experience, you must risk assess the organisation so that the students are properly safeguarded. More guidance can be found in the 'Resources to safeguard students' section below.
+
+## Step 3: 
+
+Once the student/s are working with the host employer, it is advised that you have regular conversations with both the 'host employer' and 'students' to make sure that things are running smoothly and that expectations are aligned on both sides. If the off-campus experience is long-term e.g a year in industry then you should also plan to visit the students onsite. On our course, we required students to conduct just three 'research days' at the employers host workplace so we deemed that onsite visits weren't required. However, as a safeguard, we implemented three measures:
+
+- Once the projects are underway, each week in class the first 5-10 minutes of class are devoted to an open, unstructured time to check in with each group to share about their experience and challenges they have faced. 
+- Employers were asked to provide two contacts - one who would be the equivalent of a real-world supervisor and who was responsible for the specification of the project, ideally located onsite at the specific location. The second contact was intended to act as an organisational mentor for students.
+- We invited graduates from previous years in the course to act as "senior consultants" and act as student mentors for student groups, fielding questions and sharing from their own experience on the previous year.
+
+Note: If the off-campus professional experience is long-term (i.e. more than 20 working days) the opportunity should be paid.
+
+To prepare the employer and safeguard our students below are examples of documents  which can be adapted to suit your needs. 
+
+1. Terms and conditions should be signed by the host employer before students undertake off-campus experience. You can find a sample (`TandCs.pdf`) in the `resources` folder which has been adapted from the University of Birmingham's Code of Practice.
+2. `roles_and_responsibilities.pdf` (also in the `resources` folder) can be given to both students and host employer so everyone is clear what to expect, and what is expected of them.
+3. At the beginning of the module the employer is asked to deliver a briefing session. This is aimed to introduce students to the organisation's values, ethos and gain an insight into how the project they will work on, fits into the longer-term strategic goals of the organisation. So all parties are prepared for the briefing session, Roshni developed a briefign document that was given to students prior them attending the session. This was also sent to the host organisation to confirm all details were correct and so they could have a list of the students names. You can view a sample in `student_brief.pdf`.
+
+
+## Additional resources to safeguard students
+
+### Risk assessment guide (specific to University of Birmingham)
+
+This document is based on good practice and U.K law and is a brief guide which has been designed to support with risk assessment processes to safeguard our students before they undertake their placement. 
+
+Within the UK the placement provider is responsible for the health and safety of the student whilst on placement as if the student were their employee. It is the University’s responsibility to prepare students by helping them understand the risks to make informed judgement whilst on placement.
+
+Please note that in some cases contractual or legal requirements may be needed to supplement programmes such as Medicine, Teaching, and Social Work etc.
+
+The templates shared on this guide can be adapted to suit the needs of your individual programmes: it is recommended that the Risk Profiling document be used to determine the level of risk (`risk-profiling_document.pdf`).
+
+Before the placement is risk assessed it is important that you consider if the placement will:
+
+- Meet the learning outcomes identified
+- Provide the student with an authentic learning experience that is suitable for the students level of study
+- Fit in with the University’s values and strategy and that it will not pose any reputational risks.
+
+All placements should be risk assessed before the student undertakes the opportunity using the Risk Profiling document Preview the documentand the level of risk should be recorded on a Risk Assessment Form (`risk-assessment-form.pdf`).
+
+For further information contact Andrew Else, Insurance Manger for UoB  
+
+Further resources include:
+- [`placements_review_process_and_FAQ.docx`](resources/placements_review_process_and_FAQ.docx)
+- [`e-ASET-Health-Safety-for-Student-Placements-2016.pdf`](resources/e-ASET-Health-Safety-for-Student-Placements-2016.pdf)
+- [UOB_code_of_Practice_for_Placement_Learning.pdf](resources/UOB_code_of_Practice_for_Placement_Learning.pdf)
